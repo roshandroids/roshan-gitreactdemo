@@ -1,0 +1,17 @@
+CSD 4503 – DevOp Tools and Practices – 2024S
+Student ID: C0901142
+Student Name: Roshan Shrestha
+Assignment #1
+
+
+Project Brief:
+This project is about demonstrating my understanding and practical skills in using Git and
+GitHub, including initializing a repository, making commits, creating
+and merging branches, and collaborating using push and pull operations.
+
+
+Requirements:
+Initialize a Git Repository
+Make Initial Commits
+Create and Merge Branches
+Collaborate Using Push and Pull Operations
